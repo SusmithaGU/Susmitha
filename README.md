@@ -1,2 +1,2 @@
-Hi there 👋 
-I am Susmitha 
+**Hi there** 👋 
+**I am Susmitha** 
